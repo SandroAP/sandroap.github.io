@@ -82,7 +82,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #000;
+    color: #fff;
     background: #{{ site.color.primary }};
 }
 
@@ -327,7 +327,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
-    color: #000;
+    color: #fff;
 }
 
 footer h3 {
