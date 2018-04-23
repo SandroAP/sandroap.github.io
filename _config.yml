@@ -1,11 +1,12 @@
 # Site settings
-title: Sandro Portfolio
+title: Portfolio
 email: sandro.aguilar.p@gmail.com
 url: https://sandroap.github.io
-description: "{programmer}"
-keywords: "web, developer, php, laravel, mysql, github"
-skills: "Web Developer"
+description: "programmer"
+keywords: "web, developer, php, laravel, mysql, github, java, bootstrap"
+skills: "{ programmer }"
 meta_author: Aguilar Sandro
+author: Sandro Aguilar
 
 # Google webmaster tools
 google_verify:
