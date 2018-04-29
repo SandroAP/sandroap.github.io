@@ -6,7 +6,7 @@ img: maes.jpg
 alt: maes.jpg
 project-date: June 2015
 client: APILAC
-client-url: maes.apilazaro.com.mx
+client-url: http://maes.apilazaro.com.mx
 category: Web Development
 description: Developed of the Security Equipment Management Module (MAES). This system consists of the security equipment reviews management for each terminal or company that was located in the port area, facilitating the work of the emergency teams
 
