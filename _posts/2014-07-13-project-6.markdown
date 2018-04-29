@@ -8,6 +8,6 @@ project-date: March 2018
 client: Revopayments
 client-url: http://revopay.com/
 category: Web Development
-description: o	CRUD to manage invoices.
+description: CRUD to manage invoices on Revopayments.
 
 ---
