@@ -8,6 +8,6 @@ project-date: June 2015
 client: APILAC
 client-url: http://puertolazarocardenas.net/ssa
 category: Web Development
-description: The Access Requests System is a tool that allows users to process access requested for personal, vehicular and crew members, permanent and temporary, in an easy way and with a friendly interface.
+description: The Access Requests System is a tool that allows users to process access request for personal, vehicular and crew members, permanent and temporary, in an easy way and with a friendly interface.
 
 ---
