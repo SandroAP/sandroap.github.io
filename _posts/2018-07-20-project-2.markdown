@@ -8,6 +8,6 @@ project-date: April 2014
 client: Start Bootstrap
 client-url: https://www.linkedin.com/in/sandro-aguilar/
 category: Web Development
-description: The SSA is a tool that allows users to process access requested for personal, vehicular and crew members, permanent and temporary, in an easy way and with a friendly interface.
+description: The SSA is a tool that allows users to process access request for personal, vehicular and crew members, permanent and temporary, in an easy way and with a friendly interface.
 
 ---
