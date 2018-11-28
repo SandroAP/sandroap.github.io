@@ -55,8 +55,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 4832 W 98th ST
-  - line: Inglewood, CA 90301
+  - line: Los Angeles, CA.
 
 # Credits content
 credits: 'Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
