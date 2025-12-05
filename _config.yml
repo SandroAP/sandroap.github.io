@@ -2,9 +2,9 @@
 title: Portfolio
 email: sandro.aguilar.p@gmail.com
 url: https://sandroap.github.io
-description: "programmer"
-keywords: "web, developer, php, laravel, mysql, github, bootstrap"
-skills: "PHP-Laravel-jQuery-MySql-Git"
+description: "Software Developer"
+keywords: "web, developer, php, laravel, mysql, github, bootstrap, C#, .NET, Backend"
+skills: "C#, SQL, PHP, .NET, Hangfire, Laravel, GitHub, REST APIs"
 meta_author: Aguilar Sandro
 author: Sandro Aguilar
 
@@ -55,7 +55,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Los Angeles, CA.
+  - line: Houston, TX.
 
 # Credits content
 credits: 'Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
